@@ -2,7 +2,6 @@
 
 import { useCart } from "../context/CartContext.jsx"
 import { useProducts } from "../context/ProductsContext.jsx"
-
 import { Product } from "./Product.tsx"
 
 

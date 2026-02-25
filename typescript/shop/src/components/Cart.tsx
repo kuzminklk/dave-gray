@@ -1,9 +1,6 @@
 
 
 import { useCart } from "../context/CartContext.tsx"
-
-import { useContext } from "react"
-
 import { REDUCER_ACTION_ENUM } from "../context/CartContext.tsx"
 
 
