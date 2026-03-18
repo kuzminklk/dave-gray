@@ -1,4 +1,4 @@
 [submodule "typescript/to-dos"]
 	path = typescript/to-dos
-	url = https://github.com/kuzminklk/to-dos
+	url = git@github.com:kuzminklk/to-dos.git
 	branch = main
