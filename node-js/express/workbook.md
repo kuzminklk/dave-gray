@@ -1,4 +1,5 @@
 
+### Production checklist
 1. Update tokens time in JWT-linked controllers
 2. Update clear-cookies in logout controller to 'secure: true' config
 3. Update CORS

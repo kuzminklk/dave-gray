@@ -22,7 +22,6 @@ function App() {
 	return (	
 		<>
 			<Header />
-			<StoreProvider>
 			<DataProvider>
 				<Nav/>
 				<main>
@@ -35,7 +34,6 @@ function App() {
 					</Routes>
 				</main>
 			</DataProvider>
-			</StoreProvider>
 			<Footer />
 		</>
 	)
