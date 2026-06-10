@@ -1,8 +1,7 @@
 
-
 # For Tailwind version 3
 
-# Init Tailwind
+# Initialize Tailwind
 npx tailwindcss init
 
 # Build Tailwind CSS

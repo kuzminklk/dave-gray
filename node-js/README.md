@@ -1,7 +1,7 @@
 
 
 ### Description
-Node.js course from Dave Gray
+Node.js course by Dave Gray
 
 ### Sections
 1. File system
