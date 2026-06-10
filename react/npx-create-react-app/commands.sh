@@ -2,5 +2,5 @@
 # Install dependencies
 npm install
 
-# Rin development server
+# Run development server
 npm run dev

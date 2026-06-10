@@ -13,6 +13,5 @@ Part of computer-science study curriculum availabe in [Notion](https://app.notio
 4. [TypeScript](https://www.youtube.com/watch?v=gieEQFIfgYc&t=29648s)
 
 
-
 ### Usage
 To clone with submodules: ```git clone --recursive --remote-submodules```
