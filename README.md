@@ -19,4 +19,4 @@ Part of computer-science study curriculum available in [Notion](https://kuzminkl
 
 ### Clone
 
-To clone with submodules: `git clone --recursive --remote-submodules`
+To clone with submodules: `git clone --recurse-submodules`

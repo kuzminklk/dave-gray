@@ -1,8 +1,7 @@
-
-
 ### Description
+
 Shop page
 
-
 ### Usage
-Appropriate commands in ```./commands.sh``` 
+
+Appropriate commands in `./commands.sh`

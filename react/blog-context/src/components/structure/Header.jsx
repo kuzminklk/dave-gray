@@ -1,11 +1,7 @@
-
-
-import useWindowSize from "../../../hooks/useWindowSize";
-
+import useWindowSize from "../../../hooks/useWindowSize"
 
 export default function Header() {
-
-	const title = `React JS Blog, Width: ${useWindowSize().width}`;
+	const title = `React JS Blog, Width: ${useWindowSize().width}`
 
 	return (
 		<header>

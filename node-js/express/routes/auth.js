@@ -1,9 +1,8 @@
+import express from "express"
+import handleUserAuth from "../controllers/auth.js"
 
-import express from 'express';
-import handleUserAuth from '../controllers/auth.js';
+const router = express.Router()
 
-const router = express.Router();
-
-router.post('/', handleUserAuth);
+router.post("/", handleUserAuth)
 
 export default router

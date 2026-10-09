@@ -1,0 +1,9 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.requireConfig": true,
+	"solidity.formatter": "forge",
+	"[toml]": {
+		"editor.defaultFormatter": "tamasfe.even-better-toml"
+	}
+}

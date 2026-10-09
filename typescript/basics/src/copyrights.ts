@@ -1,5 +1,3 @@
-
-
 type CatchHTMLElement = HTMLElement | null
 
 const yearElement: CatchHTMLElement = document.getElementById("year")

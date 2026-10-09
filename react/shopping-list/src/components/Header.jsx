@@ -1,5 +1,4 @@
-
-export default function Header({title}) {
+export default function Header({ title }) {
 	return (
 		<header>
 			<h1>{title}</h1>
@@ -8,5 +7,5 @@ export default function Header({title}) {
 }
 
 Header.defaultpRrops = {
-	'title':'List'
+	title: "List",
 }
