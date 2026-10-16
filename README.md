@@ -8,6 +8,14 @@ Workbook for study computer-science from [Dave Gray's](https://www.youtube.com/@
 
 Part of computer-science study curriculum available in [Notion](https://kuzminklk.notion.site/31154d4de03580d7b5ceca5b187846be)
 
+### Technologies
+
+Development: Visual Studio Code  
+Programming language: JavaScript → TypeScript  
+Markup languages: HTML, CSS  
+Formatting: “.editorconfig”, “.vscode/…”, Prettier  
+Version Control: Git, GitHub
+
 ### Courses
 
 1. [Node.js](https://www.youtube.com/watch?v=f2EqECiTBL8)
